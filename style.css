@@ -1,0 +1,78 @@
+@font-face{
+    font-family: LemonMilklight;
+    src: url(fonts/LemonMilklight.otf);
+    src: url(fonts/Sanseriffic.otf); 
+}
+body{
+    background-color: white; 
+     font-family: "Sanseriffic.otf", sans-serif;
+    color: black;
+}
+h1{
+    font-family:  "LemonMilklight";
+}  
+#nav { 
+list-style-type: none;
+    margin:-8;
+    padding:0;
+    overflow: hidden;
+    background-color: #a6d6d8
+}
+#nav li {
+    float: left;
+} 
+  #nav li a {
+      display: block;
+      background-color: #a6d6d8 ;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+   #la li a:hover {
+        background-color: black;
+        color:#ad5f4a ;
+    }
+    #nav li a:active {
+    background-color: white ;
+    color: beige;
+    }
+p{
+    width: 25%;
+}
+
+#resume: {
+@font-face
+    font-family: LemonMilklight;
+    src: url(fonts/LemonMilklight.otf);
+    src: url(fonts/Sanseriffic.otf); 
+}
+body{
+    background-color: white; 
+     font-family: "Sanseriffic.otf", sans-serif;
+    color: black;
+}
+h1{
+    font-family:  "LemonMilklight";
+}
+
+#rain {
+    background-image:url(images/rainbow.gif);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+
+#apple {   
+   
+    color:#a6d6d8;
+    border:5px;
+    margin:10px;
+    padding:20px;
+    font-size: 20px;
+}
+    
+    
+    
+    
+}
